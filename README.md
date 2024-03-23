@@ -1,2 +1,2 @@
 # o-comeco
-meu primeiro repositório guris/22.10.2019
+meu primeiro repositório/22.10.2019
